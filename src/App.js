@@ -16,7 +16,7 @@ class App extends Component {
                     when an unknown printer took a galley of type and scrambled it to make a
                     type specimen book.
                 </p>
-                <img src={Logo} width={300}/>
+                <img src={Logo} width={300} alt="Beer and pizza. Lookin' tasty!"/>
                 <Chat/>
             </div>
         );
