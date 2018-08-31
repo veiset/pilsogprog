@@ -1,12 +1,18 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        Pils og Programmering
+        <h1>Pils og Programmering</h1>
+        <p>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+          when an unknown printer took a galley of type and scrambled it to make a
+          type specimen book.
+        </p>
       </div>
     );
   }
