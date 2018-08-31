@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
+import Chat from './Chat';
+import Logo from './pogp.png'
+
 
 
 class App extends Component {
@@ -7,12 +10,16 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Pils og Programmering</h1>
+
+
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
           Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
           when an unknown printer took a galley of type and scrambled it to make a
           type specimen book.
         </p>
+        <img src={Logo} width={300}/>
+        <Chat/>
       </div>
     );
   }

@@ -1,0 +1,270 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="839" height="704" viewBox="0 0 839 704">
+  <defs>
+    <radialGradient id="pogp2-a" cy="43.478%" r="100%" fx="50%" fy="43.478%" gradientTransform="matrix(0 1 -.30918 0 .634 -.065)">
+      <stop offset="0%" stop-color="#F70000"/>
+      <stop offset="97.808%" stop-color="#FFEFEF" stop-opacity=".216"/>
+    </radialGradient>
+    <filter id="pogp2-b" width="158%" height="287.5%" x="-29%" y="-93.8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="40"/>
+    </filter>
+    <radialGradient id="pogp2-c" cy="43.478%" r="100%" fx="50%" fy="43.478%">
+      <stop offset="0%" stop-color="#F70000"/>
+      <stop offset="97.808%" stop-color="#FFEFEF" stop-opacity=".216"/>
+    </radialGradient>
+    <filter id="pogp2-d" width="165.9%" height="165.9%" x="-33%" y="-33%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="40"/>
+    </filter>
+    <linearGradient id="pogp2-e" x1="50%" x2="7.859%" y1="0%" y2="95.074%">
+      <stop offset="0%" stop-color="#EE8556"/>
+      <stop offset="100%" stop-color="#F9D470"/>
+    </linearGradient>
+    <linearGradient id="pogp2-f" x1="-18.732%" x2="74.728%" y1="20.229%" y2="93.434%">
+      <stop offset="0%" stop-color="#FEF7C1" stop-opacity="0"/>
+      <stop offset="57.754%" stop-color="#FCEB8D"/>
+      <stop offset="100%" stop-color="#FCEB8D" stop-opacity="0"/>
+    </linearGradient>
+    <path id="pogp2-g" d="M19.4394907,317.547617 C26.4384823,320.817558 112.688994,267.78562 278.191026,158.451803 C271.988211,99.3003481 236.408228,53.8863271 171.451078,22.2097399 C106.493928,-9.4668473 49.3435683,-7.25944325 0,28.8319521 C5.96066896,218.039121 12.4404992,314.277676 19.4394907,317.547617 Z"/>
+    <radialGradient id="pogp2-k" cx="48.962%" cy="38.089%" r="59.774%" fx="48.962%" fy="38.089%" gradientTransform="matrix(-.97995 .19927 -.20536 -1.00991 1.047 .669)">
+      <stop offset="0%" stop-color="#F66F82"/>
+      <stop offset="79.827%" stop-color="#F56A7E"/>
+      <stop offset="100%" stop-color="#EB4A64"/>
+    </radialGradient>
+    <circle id="pogp2-j" cx="34" cy="98" r="42"/>
+    <filter id="pogp2-i" width="185.7%" height="185.7%" x="-42.9%" y="-28.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <circle id="pogp2-m" cx="152.5" cy="153.5" r="55.5"/>
+    <filter id="pogp2-l" width="164.9%" height="164.9%" x="-32.4%" y="-21.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <circle id="pogp2-o" cx="76.5" cy="254.5" r="29.5"/>
+    <filter id="pogp2-n" width="222%" height="222%" x="-61%" y="-40.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <filter id="pogp2-p" width="124.4%" height="147.7%" x="-12.2%" y="-23.8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10"/>
+    </filter>
+    <linearGradient id="pogp2-q" x1="50%" x2="36.928%" y1="0%" y2="57.362%">
+      <stop offset="0%" stop-color="#EE8556"/>
+      <stop offset="100%" stop-color="#F9D470"/>
+    </linearGradient>
+    <radialGradient id="pogp2-r" cy="33.505%" r="204.551%" fx="50%" fy="33.505%" gradientTransform="matrix(0 .48888 -1 0 .835 .09)">
+      <stop offset="0%" stop-color="#593636"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <linearGradient id="pogp2-s" x1="21.052%" x2="50%" y1="-193.444%" y2="97.534%">
+      <stop offset="0%" stop-color="#A99F79"/>
+      <stop offset="100%" stop-color="#866450"/>
+    </linearGradient>
+    <linearGradient id="pogp2-t" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#655C5C"/>
+      <stop offset="100%" stop-color="#C6B3B3"/>
+    </linearGradient>
+    <linearGradient id="pogp2-u" x1="7.637%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E5E5E5"/>
+      <stop offset="100%" stop-color="#C6C6C6"/>
+    </linearGradient>
+    <linearGradient id="pogp2-v" x1="50%" x2="50%" y1="0%" y2="98.837%">
+      <stop offset="0%" stop-color="#020000"/>
+      <stop offset="100%" stop-color="#3D2525"/>
+    </linearGradient>
+    <ellipse id="pogp2-w" cx="41" cy="10" rx="41" ry="10"/>
+    <linearGradient id="pogp2-x" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#655C5C"/>
+      <stop offset="100%" stop-color="#4C3C3C"/>
+    </linearGradient>
+    <linearGradient id="pogp2-z" x1="50%" x2="50%" y1="0%" y2="98.002%">
+      <stop offset="0%" stop-color="#EEECDF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ECE5C3" stop-opacity=".283"/>
+    </linearGradient>
+    <linearGradient id="pogp2-A" x1="50%" x2="50%" y1="0%" y2="98.225%">
+      <stop offset="0%" stop-color="#E3E3E3" stop-opacity=".048"/>
+      <stop offset="100%" stop-color="#C3C3C3" stop-opacity=".251"/>
+    </linearGradient>
+    <linearGradient id="pogp2-B" x1="50%" x2="50%" y1="0%" y2="98.002%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".288"/>
+      <stop offset="100%" stop-color="#ECE5C3" stop-opacity=".283"/>
+    </linearGradient>
+    <linearGradient id="pogp2-C" x1="50%" x2="85.191%" y1="0%" y2="94.438%">
+      <stop offset="0%" stop-color="#FFC55C"/>
+      <stop offset="100%" stop-color="#F9D470"/>
+    </linearGradient>
+    <linearGradient id="pogp2-D" x1="0%" x2="24.676%" y1="-102.061%" y2="142.53%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".744"/>
+      <stop offset="100%" stop-color="#F9D470"/>
+    </linearGradient>
+    <linearGradient id="pogp2-E" x1="50%" x2="50%" y1="100%" y2="30.602%">
+      <stop offset="0%" stop-color="#F1E2BC"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <path id="pogp2-F" d="M190.09602,28.8980972 C186.397399,24.5771979 184.873448,18.5392053 186.564136,12.6645684 C189.237169,3.37657636 198.933495,-1.98590775 208.221487,0.687124861 C222.650925,4.83983709 233.802353,8.60834505 245.674569,13.7613223 C261.591625,20.6699087 276.104488,29.1032006 289.256324,39.6355238 C322.38166,66.1631322 344.178438,103.886494 351.57136,154.756889 C362.195807,227.863283 351.553288,282.759827 318.101742,318.343013 C312.264708,324.552002 302.964073,325.552219 296.018569,321.163994 C295.860126,321.361328 295.701129,321.558462 295.541578,321.755395 C101.203285,282.038469 2.71572057,258.54939 0.078883818,251.288158 C-0.616302857,249.373777 3.28341211,242.915527 11.7780287,231.913409 C16.5196179,219.909901 57.5766648,171.994274 134.949169,88.1665271 C135.243808,77.822348 139.338602,67.5662857 147.233551,59.6713368 C154.336038,52.5688502 163.349429,48.5419186 172.618786,47.5905421 C178.294738,41.5078561 184.120483,35.2770412 190.09602,28.8980972 Z"/>
+    <filter id="pogp2-G" width="124.3%" height="135.9%" x="-12.2%" y="-17.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="9.994"/>
+    </filter>
+    <radialGradient id="pogp2-I" cy="43.478%" r="100.005%" fx="50%" fy="43.478%" gradientTransform="matrix(0 .99995 -1 0 .935 -.065)">
+      <stop offset="0%" stop-color="#F70000"/>
+      <stop offset="97.808%" stop-color="#FFEFEF" stop-opacity=".216"/>
+    </radialGradient>
+    <filter id="pogp2-J" width="166%" height="166%" x="-33%" y="-33%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="32"/>
+    </filter>
+    <path id="pogp2-K" d="M15.5409116,253.876902 C21.1362592,256.491195 90.0892782,214.092565 222.399969,126.68101 C217.441125,79.3898722 188.996688,43.0817082 137.066658,17.7565179 C85.136629,-7.56867234 39.4477428,-5.8038696 0,23.0509261 C4.76526007,174.320617 9.94556392,251.262609 15.5409116,253.876902 Z"/>
+    <radialGradient id="pogp2-O" cx="48.962%" cy="38.089%" r="59.774%" fx="48.962%" fy="38.089%" gradientTransform="matrix(-.97994 .19927 -.20537 -1.00986 1.048 .668)">
+      <stop offset="0%" stop-color="#F66F82"/>
+      <stop offset="79.827%" stop-color="#F56A7E"/>
+      <stop offset="100%" stop-color="#EB4A64"/>
+    </radialGradient>
+    <ellipse id="pogp2-N" cx="27.181" cy="78.35" rx="33.577" ry="33.579"/>
+    <filter id="pogp2-M" width="186.4%" height="186.4%" x="-43.2%" y="-28.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <radialGradient id="pogp2-R" cx="48.962%" cy="38.089%" r="59.774%" fx="48.962%" fy="38.089%" gradientTransform="matrix(-.97994 .19927 -.20537 -1.00986 1.048 .668)">
+      <stop offset="0%" stop-color="#F66F82"/>
+      <stop offset="79.827%" stop-color="#F56A7E"/>
+      <stop offset="100%" stop-color="#EB4A64"/>
+    </radialGradient>
+    <ellipse id="pogp2-Q" cx="121.916" cy="122.722" rx="44.37" ry="44.372"/>
+    <filter id="pogp2-P" width="165.4%" height="165.4%" x="-32.7%" y="-21.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <radialGradient id="pogp2-U" cx="48.962%" cy="38.089%" r="59.774%" fx="48.962%" fy="38.089%" gradientTransform="matrix(-.97994 .19927 -.20537 -1.00986 1.048 .668)">
+      <stop offset="0%" stop-color="#F66F82"/>
+      <stop offset="79.827%" stop-color="#F56A7E"/>
+      <stop offset="100%" stop-color="#EB4A64"/>
+    </radialGradient>
+    <ellipse id="pogp2-T" cx="61.158" cy="203.471" rx="23.584" ry="23.585"/>
+    <filter id="pogp2-S" width="223%" height="223%" x="-61.5%" y="-40.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.945098039   0 0 0 0 0.596078431   0 0 0 0 0.360784314  0 0 0 1 0"/>
+    </filter>
+    <filter id="pogp2-V" width="124.4%" height="147.7%" x="-12.2%" y="-23.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(74 52)">
+    <ellipse cx="208" cy="474" fill="url(#pogp2-a)" fill-rule="nonzero" filter="url(#pogp2-b)" opacity=".194" rx="207" ry="64"/>
+    <g transform="rotate(45 141.66 649.278)">
+      <g transform="translate(0 18)">
+        <circle cx="182" cy="194" r="182" fill="url(#pogp2-c)" fill-rule="nonzero" filter="url(#pogp2-d)" opacity=".194"/>
+        <path fill="#F39954" fill-rule="nonzero" d="M55.4394907,337.547617 C62.4384823,340.817558 148.688994,287.78562 314.191026,178.451803 C307.988211,119.300348 272.408228,73.8863271 207.451078,42.2097399 C142.493928,10.5331527 85.3435683,12.7405568 36,48.8319521 C41.960669,238.039121 48.4404992,334.277676 55.4394907,337.547617 Z"/>
+        <path fill="url(#pogp2-e)" fill-rule="nonzero" stroke="url(#pogp2-f)" stroke-width="4" d="M308.071215,157.455134 C301.590344,99.6220658 266.50076,55.181278 202.57445,24.0073839 C138.626961,-7.17683853 82.5484474,-5.20678894 34.0323842,29.8272704 C37.0018719,123.883081 40.0999535,194.870721 43.3258563,242.781887 C44.9430518,266.800504 46.5918504,285.009774 48.2694907,297.39509 C49.1021907,303.542565 49.9401077,308.238478 50.7752747,311.461856 C51.1766589,313.011022 51.572036,314.196959 51.9463314,315.000761 C52.1985032,315.542301 52.3807662,315.779871 52.2860578,315.735623 C52.2174583,315.703573 52.5855955,315.695906 53.2454557,315.54884 C54.1792684,315.340716 55.4485394,314.9176 57.0314307,314.279675 C60.3047554,312.960483 64.8362864,310.758385 70.6067918,307.678992 C82.2200597,301.481647 98.7981769,291.760877 120.329072,278.522404 C163.255269,252.128828 225.838155,211.771804 308.071214,157.455129 Z"/>
+        <g transform="translate(32)">
+          <mask id="pogp2-h" fill="#fff">
+            <use xlink:href="#pogp2-g"/>
+          </mask>
+          <use fill="url(#pogp2-e)" fill-rule="nonzero" xlink:href="#pogp2-g"/>
+          <g fill-rule="nonzero" mask="url(#pogp2-h)">
+            <use fill="#000" filter="url(#pogp2-i)" xlink:href="#pogp2-j"/>
+            <use fill="url(#pogp2-k)" xlink:href="#pogp2-j"/>
+          </g>
+          <g fill-rule="nonzero" mask="url(#pogp2-h)">
+            <use fill="#000" filter="url(#pogp2-l)" xlink:href="#pogp2-m"/>
+            <use fill="url(#pogp2-k)" xlink:href="#pogp2-m"/>
+          </g>
+          <g fill-rule="nonzero" mask="url(#pogp2-h)">
+            <use fill="#000" filter="url(#pogp2-n)" xlink:href="#pogp2-o"/>
+            <use fill="url(#pogp2-k)" xlink:href="#pogp2-o"/>
+          </g>
+        </g>
+      </g>
+      <path fill="#CA733A" fill-rule="nonzero" d="M42,62.1368073 C42,74.8855919 49.947749,93.772437 69.3006928,83.2272271 C88.6536366,72.6820172 136.690252,51.5915974 171.199063,62.1368073 C205.707874,72.6820172 254.724828,160.061303 275.228795,153.452767 C295.732761,146.844231 291.133045,118.339997 261.429647,90.2384021 C231.726248,62.1368073 152.331912,28 124.42726,28 C96.5226084,28 42,49.3880227 42,62.1368073 Z" filter="url(#pogp2-p)" opacity=".19"/>
+      <path fill="url(#pogp2-q)" fill-rule="nonzero" d="M42.3555097,61.7950002 C33.897788,66.4724829 23.2496011,63.4079937 18.5721185,54.9502721 C13.8946358,46.4925505 16.959125,35.8443635 25.4168466,31.1668809 C38.556411,23.9001385 49.1063989,18.6796256 61.1450285,13.9284063 C77.2851954,7.55845605 93.510577,3.25955018 110.257806,1.40727513 C152.438808,-3.25802292 194.525903,8.00377278 235.724289,38.7469888 C294.930934,82.9283967 326.223255,129.271513 327.730552,178.08644 C328.028844,187.746819 320.439372,195.819916 310.778993,196.118207 C301.118614,196.416498 293.045517,188.827026 292.747226,179.166648 C291.623232,142.765279 266.261771,105.205612 214.792142,66.7977509 C180.742315,41.3889591 147.52053,32.4993707 114.10541,36.1951458 C89.6907827,38.8954495 68.987932,47.0661289 42.3555097,61.7950002 Z"/>
+      <circle cx="66" cy="116" r="42" fill="url(#pogp2-k)" fill-rule="nonzero"/>
+    </g>
+    <g transform="translate(163 12)">
+      <path fill="url(#pogp2-r)" fill-rule="nonzero" d="M12,64.5488871 L12,53 L194,53 L194,64.5121643 C196.150652,66.8472319 197.785909,69.6951512 198.698685,72.8995865 L201.890571,84.1051838 C202.626619,86.689191 203,89.3629503 203,92.0497439 L203,417.140956 C203,421.007919 202.226624,424.835831 200.725371,428.399487 L198.698685,433.210412 C197.639838,435.72389 196.011039,437.880219 194,439.554787 L194,449 C154.190316,461.825602 123.856983,468.238402 103,468.238402 C82.1430173,468.238402 51.8096839,461.825602 12,449 L12,439.383306 C9.73296007,437.750637 7.77386705,435.66616 6.26664986,433.210412 L4.28390311,429.979872 C1.48274518,425.415874 -3.85444326e-13,420.165395 -3.7658765e-13,414.810345 L-4.51194637e-13,93.7785565 C-4.51661824e-13,89.9636841 0.752684435,86.1862963 2.21493346,82.6627924 L6.26664986,72.8995865 C7.60231197,69.6811124 9.57389909,66.8571702 12,64.5488871 Z"/>
+      <polyline stroke="url(#pogp2-s)" stroke-width="3" points="44.577 250.441 55.41 261.274 66.243 250.441 77.077 261.274 87.91 250.441 98.743 261.274 109.577 250.441 120.41 261.274 131.243 250.441 142.076 261.274 152.91 250.441"/>
+      <rect width="88" height="12" x="59" y="221" fill="url(#pogp2-s)" fill-rule="nonzero"/>
+      <ellipse cx="103" cy="53" fill="url(#pogp2-t)" fill-rule="nonzero" rx="91" ry="24"/>
+      <path fill="url(#pogp2-t)" fill-rule="nonzero" d="M13.258203,443 C20.4787207,454.350853 57.9095563,463 103,463 C148.090444,463 185.521279,454.350853 192.741797,443 C193.569285,444.300834 194,445.637151 194,447 C194,460.254834 153.257912,471 103,471 C52.7420878,471 12,460.254834 12,447 C12,445.637151 12.4307151,444.300834 13.258203,443 Z"/>
+      <ellipse cx="103.5" cy="51" stroke="url(#pogp2-u)" stroke-width="5" rx="92" ry="23.5"/>
+      <ellipse cx="101" cy="58" fill="url(#pogp2-v)" fill-rule="nonzero" rx="41" ry="10"/>
+      <ellipse cx="112" cy="42" fill="#C6C6C6" fill-rule="nonzero" rx="8" ry="4"/>
+      <g transform="translate(60 48)">
+        <mask id="pogp2-y" fill="#fff">
+          <use xlink:href="#pogp2-w"/>
+        </mask>
+        <use fill="url(#pogp2-v)" fill-rule="nonzero" xlink:href="#pogp2-w"/>
+        <path fill="url(#pogp2-x)" fill-rule="nonzero" d="M47.224114,1.66398937 C57.8500339,17.9520026 57.8500339,27.1845917 47.224114,29.3617568 C36.5981942,31.5389218 24.0336173,28.8684585 9.53038323,21.3503667 C-6.15179423,14.386001 -7.19004297,8.66487982 6.41563703,4.18700317 C20.021317,-0.290873486 33.6241427,-1.13187808 47.224114,1.66398937 Z" mask="url(#pogp2-y)"/>
+      </g>
+      <path fill="url(#pogp2-t)" fill-rule="nonzero" d="M101.136125,50.7945571 C77.654619,42.8474943 94.2681092,18.6146991 101.136125,13.2577743 C108.004141,7.90084948 114.495449,-3.0620109 132.805192,0.811490538 C151.114935,4.68499197 138.225966,17.4824448 132.805192,30.1649695 C127.384418,42.8474943 124.617631,58.74162 101.136125,50.7945571 Z M110.092285,44.0678882 C116.970361,44.0678882 122.546143,40.3267963 122.546143,35.7119255 C122.546143,31.0970547 116.970361,27.3559627 110.092285,27.3559627 C103.21421,27.3559627 97.6384281,31.0970547 97.6384281,35.7119255 C97.6384281,40.3267963 103.21421,44.0678882 110.092285,44.0678882 Z M123.092285,23.0678882 C130.246503,23.0678882 136.046143,19.3267963 136.046143,14.7119255 C136.046143,10.0970547 130.246503,6.35596273 123.092285,6.35596273 C115.938068,6.35596273 110.138428,10.0970547 110.138428,14.7119255 C110.138428,19.3267963 115.938068,23.0678882 123.092285,23.0678882 Z"/>
+    </g>
+    <path stroke="#C6C6C6" stroke-width="3"/>
+    <text fill="#442929" font-family="RobotoMono-Bold, Roboto Mono" font-size="34" font-weight="bold" letter-spacing="-.4">
+      <tspan x="222" y="209">&lt;H1&gt;</tspan>
+    </text>
+    <g fill-rule="nonzero" transform="translate(0 155)">
+      <path stroke="url(#pogp2-z)" stroke-width="3" d="M28.5023766,341.148428 C43.9793352,352.406443 63.9022161,358.047716 88.3142137,358.047716 C112.645138,358.047716 140.056599,352.441458 170.543411,341.216533 C162.101017,330.873983 136.343591,325.5 93.465075,325.5 C49.9546341,325.5 28.4023591,331.078188 28.502382,341.148432 Z"/>
+      <path fill="url(#pogp2-A)" stroke="url(#pogp2-B)" stroke-width="3" d="M6.66699467,31.4997314 C0.444335111,105.900824 0.444335111,165.672313 6.66699467,210.814197 C12.8896542,255.956082 19.7227052,299.598029 27.1661477,341.740038 C42.9988268,353.479136 63.4219413,359.348685 88.4354911,359.348685 C113.449041,359.348685 141.646834,353.479136 173.028871,341.740038 C187.913673,278.975964 197.637229,235.334018 202.199541,210.814197 C206.761852,186.294377 209.119046,124.356311 209.271123,25 C190.255915,8.91842671 152.075646,1.41559441 94.7303163,2.49150311 C37.384987,3.5674118 8.03054646,13.2368212 6.66699467,31.4997314 Z"/>
+      <path fill="url(#pogp2-C)" d="M8.00982657,138.754898 C8.14242465,165.496773 9.61696569,189.083711 12.4334497,209.515714 C18.3447159,252.398616 24.8358285,293.856639 31.9067874,333.889785 C46.9471702,345.041437 66.3482746,350.617263 90.1101004,350.617263 C113.871926,350.617263 140.65865,345.041437 170.470272,333.889785 C184.610211,274.266541 193.847183,232.808517 198.181188,209.515714 C200.606073,196.483341 202.375206,172.32363 203.488587,137.036579 C204.365155,109.254963 7.86412639,109.370644 8.00982657,138.754898 Z" opacity=".875"/>
+      <ellipse cx="106.5" cy="142" fill="url(#pogp2-D)" opacity=".996" rx="97.5" ry="26"/>
+      <ellipse cx="107" cy="27" stroke="url(#pogp2-z)" stroke-width="3" rx="101.5" ry="25.5"/>
+      <path fill="url(#pogp2-E)" d="M36.6548541,73.3567677 C15.3904246,81.0804484 6.12467637,86.1470028 6.12467637,101.974668 C6.12467637,117.802334 2.27477878,140.406038 28.9639388,146.530939 C55.6530988,152.65584 85.2316407,161.025063 127.264313,165.442875 C182.951909,171.295877 194.110944,154.960166 197.445484,149.379801 C206.233034,134.673806 216.583653,102.387499 185.703825,89.2745055 C154.823996,76.1615122 177.864961,81.0604324 136.942953,73.3567677 C96.0209455,65.6531031 97.1650237,52.2148495 78.7903559,61.0519211 C60.4156881,69.8889928 57.9192836,65.6330871 36.6548541,73.3567677 Z" opacity=".98" transform="rotate(-6 106.193 112.42)"/>
+      <circle cx="48" cy="210" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="38" cy="178" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="114" cy="200" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="104" cy="168" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="67" cy="192" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="57" cy="160" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="54" cy="245" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="44" cy="213" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="147" cy="221" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="137" cy="189" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="87" cy="224" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="77" cy="192" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="114" cy="252" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="104" cy="220" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="75" cy="277" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="65" cy="245" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="180" cy="242" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="170" cy="210" r="3" fill="#FFF" opacity=".101"/>
+      <circle cx="133" cy="234" r="3" fill="#FFF" opacity=".402"/>
+      <circle cx="123" cy="202" r="3" fill="#FFF" opacity=".101"/>
+    </g>
+    <g transform="translate(287 128)">
+      <mask id="pogp2-H" fill="#fff">
+        <use xlink:href="#pogp2-F"/>
+      </mask>
+      <path fill="#000" fill-rule="nonzero" d="M83.0561152,145 C233.396186,124.881148 314.752674,104.37414 327.125579,83.4789758 C339.498484,62.5838117 302.951698,27.4058771 217.485221,-22.0548279 L112.178128,53.0379197 L83.0561152,145 Z" filter="url(#pogp2-G)" mask="url(#pogp2-H)" opacity=".263"/>
+    </g>
+    <g transform="translate(366)">
+      <g transform="translate(0 14.39)">
+        <ellipse cx="145.5" cy="155.102" fill="url(#pogp2-I)" fill-rule="nonzero" filter="url(#pogp2-J)" opacity=".194" rx="145.5" ry="145.508"/>
+        <path fill="#F39954" fill-rule="nonzero" d="M44.3211313,269.86675 C49.916479,272.481043 118.869498,230.082412 251.180188,142.670858 C246.221344,95.37972 217.776908,59.0715559 165.846878,33.7463657 C113.916849,8.42117538 68.2279626,10.1859781 28.7802198,39.0407739 C33.5454799,190.310465 38.7257837,267.252457 44.3211313,269.86675 Z"/>
+        <path fill="url(#pogp2-e)" fill-rule="nonzero" stroke="url(#pogp2-f)" stroke-width="3.2" d="M246.286543,125.883695 C241.105274,79.6472353 213.053137,44.1176506 161.947744,19.1946187 C110.825447,-5.73665756 65.9940564,-4.16174083 27.2083228,23.8471583 C29.5822762,99.0437981 32.0590334,155.797695 34.6379764,194.102208 C35.930843,213.30489 37.2489743,227.863044 38.5901613,237.764985 C39.2558592,242.67981 39.9257265,246.434124 40.5933902,249.011147 C40.9142636,250.249642 41.2303308,251.197738 41.5295329,251.84031 C41.7310379,252.273066 41.8766189,252.462833 41.8006119,252.42732 C42.4623098,252.736483 47.9155239,250.538652 56.4460905,245.986132 C65.7302998,241.031414 78.9836672,233.259744 96.1965357,222.675696 C130.513804,201.574296 180.545544,169.309283 246.286543,125.883695 Z"/>
+        <g transform="translate(25.582)">
+          <mask id="pogp2-L" fill="#fff">
+            <use xlink:href="#pogp2-K"/>
+          </mask>
+          <use fill="url(#pogp2-e)" fill-rule="nonzero" xlink:href="#pogp2-K"/>
+          <g fill-rule="nonzero" mask="url(#pogp2-L)">
+            <use fill="#000" filter="url(#pogp2-M)" xlink:href="#pogp2-N"/>
+            <use fill="url(#pogp2-O)" xlink:href="#pogp2-N"/>
+          </g>
+          <g fill-rule="nonzero" mask="url(#pogp2-L)">
+            <use fill="#000" filter="url(#pogp2-P)" xlink:href="#pogp2-Q"/>
+            <use fill="url(#pogp2-R)" xlink:href="#pogp2-Q"/>
+          </g>
+          <g fill-rule="nonzero" mask="url(#pogp2-L)">
+            <use fill="#000" filter="url(#pogp2-S)" xlink:href="#pogp2-T"/>
+            <use fill="url(#pogp2-U)" xlink:href="#pogp2-T"/>
+          </g>
+        </g>
+      </g>
+      <path fill="#CA733A" fill-rule="nonzero" d="M33.5769231,49.6779043 C33.5769231,59.8704605 39.9307554,74.9703494 55.4024769,66.5395343 C70.8741985,58.1087193 109.277097,41.2470893 136.865185,49.6779043 C164.453273,58.1087193 203.639903,127.967793 220.031811,122.684319 C236.423719,117.400845 232.746473,94.6119265 209.000075,72.1449154 C185.253676,49.6779043 121.781831,22.3857868 99.4734414,22.3857868 C77.1650523,22.3857868 33.5769231,39.4853481 33.5769231,49.6779043 Z" filter="url(#pogp2-V)" opacity=".19"/>
+      <path fill="url(#pogp2-q)" fill-rule="nonzero" d="M33.8611355,49.4046322 C27.0996053,53.1442439 18.5869064,50.6942082 14.8474903,43.9323241 C11.1080742,37.1704401 13.5579818,28.6572957 20.319512,24.917684 C30.8239439,19.1079787 39.2581376,14.9342184 48.8824266,11.1356548 C61.7856919,6.04292806 74.7570821,2.60598555 88.1456639,1.12510575 C121.867289,-2.60476452 155.51384,6.3989554 188.449912,30.9779225 C235.782697,66.3006217 260.799361,103.35159 262.00437,142.378753 C262.242839,150.102152 256.175432,156.556532 248.452437,156.795013 C240.729441,157.033495 234.275399,150.96577 234.03693,143.24237 C233.138353,114.139753 212.863119,84.111086 171.715696,53.4042932 C144.494543,33.0901576 117.935369,25.9829994 91.2216329,28.9377435 C71.7033455,31.0966157 55.1524402,37.6290117 33.8611355,49.4046322 Z"/>
+      <ellipse cx="52.764" cy="92.741" fill="url(#pogp2-O)" fill-rule="nonzero" rx="33.577" ry="33.579"/>
+    </g>
+  </g>
+</svg>
